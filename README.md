@@ -5,7 +5,7 @@
 https://developer.android.com/reference/android/support/v7/util/DiffUtil
 
 - But by looking at the implementation, I see it's coupled with 
-Android (import androidx.recyclerview.widget.RecyclerView.Adapter;), how do I test it?
+Android (`import androidx.recyclerview.widget.RecyclerView.Adapter;`), how do I test it?
 
 That's the reason I created this repo.
 
