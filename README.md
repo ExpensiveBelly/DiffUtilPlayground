@@ -13,7 +13,7 @@ That's the reason I created this repo.
 
 - How do I run DiffUtil?
 
-Open `DiffUtilRunner.kt` and run `main()`. Change the lists as needed.
+Open `DiffUtilRunner.kt` and run `main()`. Change the lists as needed. There's also a test. 
 
 #### Objectives of this project
 
@@ -21,6 +21,3 @@ Open `DiffUtilRunner.kt` and run `main()`. Change the lists as needed.
 2. Possibility of tweaking the algorithm to make it more efficient/performant
 3. Custom implementations of DiffUtil.Callback. In this repo, a custom implementation used
 for [Groupie]((https://github.com/lisawray/groupie)) is showcased.
-
-
-
