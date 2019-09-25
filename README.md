@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ExpensiveBelly/DiffUtilPlayground.svg?branch=master)](https://travis-ci.org/ExpensiveBelly/DiffUtilPlayground)
+
 # DiffUtilPlayground
 
 - What's DiffUtil?
