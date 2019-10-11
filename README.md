@@ -13,7 +13,7 @@ That's the reason I created this repo.
 
 - How do I run DiffUtil?
 
-Open `DiffUtilRunner.kt` and run `main()`. Change the lists as needed. There's also a test. 
+Open `DiffUtilRunner.kt` and run `main()`. Change the lists as needed. There are some tests. 
 
 #### Objectives of this project
 
